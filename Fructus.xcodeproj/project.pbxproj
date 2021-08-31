@@ -20,6 +20,7 @@
 		FA4D704926DD932D00C31F16 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D704826DD932D00C31F16 /* FruitDetailView.swift */; };
 		FA4D704D26DD995700C31F16 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D704C26DD995700C31F16 /* FruitHeaderView.swift */; };
 		FA4D704F26DD9D6A00C31F16 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D704E26DD9D6A00C31F16 /* SourceLinkView.swift */; };
+		FA4D705126DE1B9200C31F16 /* FruitsNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D705026DE1B9200C31F16 /* FruitsNutrientsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		FA4D704826DD932D00C31F16 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		FA4D704C26DD995700C31F16 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		FA4D704E26DD9D6A00C31F16 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		FA4D705026DE1B9200C31F16 /* FruitsNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsNutrientsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				FA4D704626DCDD8D00C31F16 /* FruitRowView.swift */,
 				FA4D704C26DD995700C31F16 /* FruitHeaderView.swift */,
 				FA4D704E26DD9D6A00C31F16 /* SourceLinkView.swift */,
+				FA4D705026DE1B9200C31F16 /* FruitsNutrientsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				FA4D704926DD932D00C31F16 /* FruitDetailView.swift in Sources */,
 				FA4D703B26DBA30000C31F16 /* FruitCardView.swift in Sources */,
 				FA4D704D26DD995700C31F16 /* FruitHeaderView.swift in Sources */,
+				FA4D705126DE1B9200C31F16 /* FruitsNutrientsView.swift in Sources */,
 				FA4D703F26DBC90900C31F16 /* OnboardingView.swift in Sources */,
 				FA4D704226DBCF5100C31F16 /* FruitModel.swift in Sources */,
 				FA4D702826DB9ACC00C31F16 /* FructusApp.swift in Sources */,
