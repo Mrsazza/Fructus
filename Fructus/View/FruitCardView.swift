@@ -12,7 +12,7 @@ struct FruitCardView: View {
     
     var fruit: Fruit
     
-    @State private var isAnimating: Bool = false
+    @State private var isAnimating = false
     
     //MARK: - BODY
     
